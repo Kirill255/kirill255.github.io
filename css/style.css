@@ -64,12 +64,13 @@ body {
     font-size: 18px;
     text-decoration: none;
     background-color: #eee;
+    border-radius: 5px;
     color: #000;
     padding: 15px;
 }
 
 .navigation__link:hover {
-    color: #00f;
+    color: #fff;
     background-color: #999
 }
 
